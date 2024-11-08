@@ -3,7 +3,7 @@ Ito na yung final output sa calculator. Should work seamlessly when imported to 
 Members:
 James Gabelo - Leader (Documentation)
 Rod Morido - Documentation
-RJ Falco - Software Engineer
+RJ Falco - Software Engineerk
 Dreyven Briones - Software Engineer
 Calvin Sison - Software Engineer
 Denzel Samiya - Software Engineer
